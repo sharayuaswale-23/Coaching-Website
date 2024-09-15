@@ -148,7 +148,7 @@ text-align: justify;
 @media screen and (max-width:767px){
   .main3-cont3{
     flex-direction: column;
-    padding: 20px;
+    padding: 15px;
     padding-top: 10px;
   }
   .main3-left{
@@ -157,6 +157,8 @@ text-align: justify;
   }
   .main3-right{
     flex-direction: column;
+    overflow: hidden;
+    padding: 5px;
   }
   .main3{
     width: 100%;
